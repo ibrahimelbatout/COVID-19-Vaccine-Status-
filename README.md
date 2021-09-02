@@ -1,5 +1,9 @@
 # Portfolio-Project
 this is a portfolio project in which sample datasets from different sources were used as follows:
+ Adventure-Works-Dataset---Microsoft
+
+ /** adventure works dataset via Microsoft ..  a Guided Project by Ali ahmed using SQL(SSMS) , Excel  & Pwoer BI 
+
  
  
  1- Google Data Analytics Professional Certificate Capstone Project DataSets 
@@ -16,12 +20,20 @@ this is a portfolio project in which sample datasets from different sources were
   
   
   4- adventure works dataset via Microsoft ..  a Guided Project by Ali ahmed using SQL(SSMS) , Excel  & Pwoer BI 
+ 
       
       
 Software 
+
+Adventure-Works-Dataset---Microsoft
+Data Cleaning      >> SSMS, Microsoft SQL Server & Excel ... SQL 
+
+Data visualization >> Power BI
+      
 
 Data Cleaning      >> SSMS, Microsoft SQL Server, Bigquery, Anaconda, Jupyter notebook,Excel & RStudio ... 
 
 Data visualization >> RStudio, Tableau , Power BI and Looker
       
 Programing Langauges >> R and Python 
+ main
